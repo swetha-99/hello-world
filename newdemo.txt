@@ -1,1 +1,1 @@
-this is demo file.deleted testdelete file
+this is demo file.deleted tst file from testing 3 branch
